@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "VxDsjs5oir9gZOf/dKa+Hc5eTaIc9UPPL9i800Y3edlDLD6/2+YiMQ39P0Al7gGJOTkUswSkoh4WlndX8LpvLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nabilo\\source\\repos\\GrpcDemo\\GrpcClient\\GrpcClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nabilo\\.nuget\\packages\\google.protobuf\\3.21.5\\google.protobuf.3.21.5.nupkg.sha512",
+    "C:\\Users\\Nabilo\\.nuget\\packages\\grpc.core.api\\2.47.0\\grpc.core.api.2.47.0.nupkg.sha512",
+    "C:\\Users\\Nabilo\\.nuget\\packages\\grpc.net.client\\2.47.0\\grpc.net.client.2.47.0.nupkg.sha512",
+    "C:\\Users\\Nabilo\\.nuget\\packages\\grpc.net.common\\2.47.0\\grpc.net.common.2.47.0.nupkg.sha512",
+    "C:\\Users\\Nabilo\\.nuget\\packages\\grpc.tools\\2.48.0\\grpc.tools.2.48.0.nupkg.sha512",
+    "C:\\Users\\Nabilo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\Nabilo\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
